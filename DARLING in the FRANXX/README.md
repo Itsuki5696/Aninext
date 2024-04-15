@@ -1,1 +1,3 @@
-Darling in the FranXX
+# DARLING in the FRANXX 
+## ダーリン・イン・ザ・フランキス
+
