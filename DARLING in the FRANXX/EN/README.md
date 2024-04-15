@@ -18,4 +18,5 @@ DARLING in the FRANXX
 | 14       | Sin and Confession       | 瀬古浩司 |
 | 15       | The Jian Bird            | 瀬古浩司 |
 | 16       | Our Daily Life           | 山崎莉乃 |
+
 Translated by Erai-raws, with effects by myself.
