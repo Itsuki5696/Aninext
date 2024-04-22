@@ -16,9 +16,9 @@ Video File: ../../../../Sub/DitF/E13.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 758
-Active Line: 764
-Video Position: 32514
+Scroll Position: 641
+Active Line: 646
+Video Position: 32587
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -693,7 +693,7 @@ Dialogue: 0,0:22:32.46,0:22:36.00,Sign,,0,0,0,,{\fs80\fnCanela Text\pos(964,350)
 Dialogue: 2,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\fs60\fsp\pos(960,450)\1c&HE0E0E0&\blur.5}The Beast and the Prince
 Dialogue: 1,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\fs60\pos(961,451)\1c&HE0A700&\blur.5}The Beast and the Prince
 Dialogue: 0,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\fs60\pos(959,449)\1c&H1A3FFF&\blur.5}The Beast and the Prince
-Dialogue: 1,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\fs35\fsp0\pos(960,220)\1c&HBBBBBB&}Episode 13
+Dialogue: 1,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\fs45\fsp0\pos(960,215)\1c&HBBBBBB&}Episode 13
 Dialogue: 1,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\p1\an7\pos(1073,202)\1c&H1A3FFF&}m 0 0 l 1 0 1 35 0 35
 Dialogue: 1,0:22:36.00,0:22:39.00,Sign,,0,0,0,,{\p1\an7\pos(849,202)\\1c&HE0A700&}m 0 0 l 1 0 1 35 0 35
 Dialogue: 0,0:22:43.63,0:22:52.52,Sign,,0,0,0,,{\fad(1500,1500)\pos(1288,227)\1c&H000000&\fnCanela Text\fs22\blur.5}In the deepest, darkest part of a forest
