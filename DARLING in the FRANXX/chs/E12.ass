@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E12.mkv
-Video File: E12.mkv
+Audio File: ../../../../Sub/DitF/E12.mkv
+Video File: ../../../../Sub/DitF/E12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 420
-Active Line: 429
-Video Position: 32843
+Scroll Position: 413
+Active Line: 418
+Video Position: 32609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,14 +47,14 @@ Style: CN-furigana,Source Han Sans CN,36,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 Style: JA-furigana,Koruri Semibold,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,15,1
 Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: JA,Koruri Semibold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,15,1
-Style: CN,Source Han Sans CN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,60,1
+Style: JA,Source Han Serif,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,15,1
+Style: CN,FZYaSong-M-GBK,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,60,1
 Style: JA-ED-TR,Koruri Semibold,48,&H00FFFFFF,&H000000FF,&H00A0A0A0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,30,68,1
 Style: CN-ED-TR,Source Han Sans CN,60,&H00FFFFFF,&H000000FF,&H00A0A0A0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,30,15,1
 Style: Sign,FZYaSong-L-GBK,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Staff,Source Han Sans CN,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,15,1
-Style: JA-T,Koruri Semibold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,80,1
-Style: CN-T,Source Han Sans CN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,15,1
+Style: JA-T,Source Han Serif,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,70,1
+Style: CN-T,FZYaSong-M-GBK,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
 Style: JA-ED-BR,Koruri Semibold,48,&H00FFFFFF,&H000000FF,&H00A0A0A0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,30,30,15,1
 Style: CN-ED-BR,Source Han Sans CN,60,&H00FFFFFF,&H000000FF,&H00A0A0A0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,30,30,60,1
 Style: JA-ED-TL,Koruri Semibold,48,&H00FFFFFF,&H000000FF,&H00A0A0A0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,30,30,68,1
