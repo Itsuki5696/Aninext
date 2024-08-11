@@ -16,9 +16,9 @@ Video File: ../../../Sub/86_OP2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 37
-Active Line: 44
-Video Position: 1853
+Scroll Position: 24
+Active Line: 30
+Video Position: 1650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,7 +49,7 @@ Style: Staff,Noto Serif SC Semibold,38,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 Style: JA-T,Koruri Semibold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,80,1
 Style: CN-T,Source Han Sans CN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,15,1
 Style: JA-OP2-W,Klee,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-Style: CN-OP2-W,Noto Serif SC Medium,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,1,0,1,0,0,2,30,30,8,1
+Style: CN-OP2-W,LXGW WenKai,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,1,0,1,0,0,2,30,30,8,1
 Style: JA-ED-TR,Koruri Semibold,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,30,68,1
 Style: CN-ED-TR,Source Han Sans CN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,30,30,15,1
 Style: Staff-Position,Source Han Sans CN,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,6,30,30,15,1
