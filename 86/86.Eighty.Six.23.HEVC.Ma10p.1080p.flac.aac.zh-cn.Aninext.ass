@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 86
-Audio File: ../../../Sub/86/86.Eighty.Six.23.HEVC.Ma10p.1080p.flac.aac.mkv
-Video File: ../../../Sub/86/86.Eighty.Six.23.HEVC.Ma10p.1080p.flac.aac.mkv
+Audio File: 86.Eighty.Six.23.HEVC.Ma10p.1080p.flac.aac.mkv
+Video File: 86.Eighty.Six.23.HEVC.Ma10p.1080p.flac.aac.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 630
-Active Line: 634
-Video Position: 4826
+Scroll Position: 104
+Active Line: 113
+Video Position: 14797
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -100,25 +100,25 @@ Comment: 1,0:10:05.00,0:10:09.54,Staff,,0,0,0,karaoke,{\k1}一{\k1}遍{\k1}又{\
 Comment: 1,0:10:09.88,0:10:13.88,Staff,,0,0,0,karaoke,{\k1}我{\k1}那{\k1}痛{\k1}苦{\k1}的{\k1} {\k1} {\k1}多{\k1}彩{\k1}的{\k1} {\k1} {\k1}狂{\k1}热{\k1}的{\k1} {\k1} {\k1}迷{\k1}离{\k1}的{\k1}感{\k1}情
 Comment: 1,0:10:14.05,0:10:16.97,Staff,,0,0,0,karaoke,{\k1}必{\k1}须{\k1}把{\k1}所{\k1}有{\k1}感{\k1}情{\k1}隐{\k1}藏{\k1}起{\k1}来
 Comment: 1,0:10:17.13,0:10:23.22,Staff,,0,0,0,karaoke,{\k1}仍{\k1}旧{\k1}无{\k1}人{\k1}知{\k1}晓{\k1}那{\k1}天{\k1}不{\k1}知{\k1}所{\k1}踪{\k1}的{\k1}群{\k1}青{\k1}色
-Dialogue: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(330,880)\fs32}时轴制作\N{\fs40}vcb-s　　ANX-02
-Dialogue: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\fad(500,500)\bord2\pos(1720,420)\fs32}片源\N{\fs40}Erai-raws
-Dialogue: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\fad(500,500)\bord2\pos(1720,550)\fs32}压制\N{\fs40}vcb-s
-Dialogue: 0,0:09:30.63,0:09:33.76,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,580)\fs32}设计总监\N{\fs40}Ares
-Dialogue: 0,0:09:30.63,0:09:33.76,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(1680,510)\fs32}翻译总监\N{\fs40}Aki云太
-Dialogue: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,580)\fs32}校对\N{\fs40}珺珺
-Dialogue: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,710)\fs32}制作总监\N{\fs40}Itsuki5696
-Dialogue: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,840)\fs32}字幕制作\N{\fs40}Aninext\NANX-02
-Dialogue: 0,0:18:04.98,0:18:07.98,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(1595,330)\fs32\i0\blur2\b1\fsp0}监制\N\N\N\N\N时轴\N\N\N设计\N\N\N特效\N\N\N\N\N校对\N\N\N压制
-Dialogue: 0,0:18:04.98,0:18:07.98,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(1675,330)\fs32\i0\blur2\b1\fsp0}Itsuki5696\NAki云太\N\N\N84aho\N\N\NAres\N\N\NAres\NItsuki5696\N\N\N珺珺\N\N\Nvcb-s
-Dialogue: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(1335,750)\fs32\i0\blur2\b1\fsp0}翻译
-Dialogue: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(1398,750)\fs32\i0\blur2\b1\fsp0}Aninext Mpls\N龙王            天星晓欲稀\NAki云太         u_zerotwo\N\NANX-02\NItsuki5696
-Dialogue: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(210,750)\fs32\i0\blur2\b1\fsp0}OP翻译\N\N\N\NED翻译
-Dialogue: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(268,750)\fs32\i0\blur2\b1\fsp0}Itsuki5696\N\N\N\NAki云太\Nu_zerotwo
-Dialogue: 0,0:18:39.31,0:18:42.48,Staff,,0,0,0,,{\an3\bord1.5\fad(450,450)\pos(1575,870)\fs32\i0\blur2\b1\fsp0}OP字幕制作\N\N\N\N\N\N\N\N\N\N\N\NED字幕制作\N\N\N插入曲翻译\N\N\N插入曲字幕制作
-Dialogue: 0,0:18:39.31,0:18:42.48,Staff,,0,0,0,,{\an1\bord1.5\fad(450,450)\pos(1635,870)\fs32\i0\blur2\b1\fsp0}Aninext\N古月三时\N大小K\N\NANX-02\NItsuki5696\N\N\NAki云太\N\N\Nforever星河\N\N\NAki云太
-Dialogue: 0,0:18:51.07,0:18:54.07,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(295,520)\fs32\i0\blur2\b1\fsp0}字幕制作\N\N\N\N\N\N\N发行
-Dialogue: 0,0:18:51.07,0:18:54.07,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(355,520)\fs32\i0\blur2\b1\fsp0}Aninext Mpls\NANX-02\Nvcb-s\N\N\NANX Holdings PJSC\NAninext
-Dialogue: 0,0:19:18.10,0:19:22.02,Staff,,0,0,5,,{\fad(500,0)\an2\blur3\bord1\fsp0\b1\i0\fs30}本字幕及视频仅供学习交流使用，不得涉及任何商业盈利目的。\N我们不对任何法律后果负责，请自行在下载后24小时内删除。
+Comment: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(330,880)\fs32}时轴制作\N{\fs40}vcb-s　　ANX-02
+Comment: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\fad(500,500)\bord2\pos(1720,420)\fs32}片源\N{\fs40}Erai-raws
+Comment: 0,0:09:19.62,0:09:22.37,Staff,,0,0,0,,{\an8\fad(500,500)\bord2\pos(1720,550)\fs32}压制\N{\fs40}vcb-s
+Comment: 0,0:09:30.63,0:09:33.76,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,580)\fs32}设计总监\N{\fs40}Ares
+Comment: 0,0:09:30.63,0:09:33.76,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(1680,510)\fs32}翻译总监\N{\fs40}Aki云太
+Comment: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,580)\fs32}校对\N{\fs40}珺珺
+Comment: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,710)\fs32}制作总监\N{\fs40}Itsuki5696
+Comment: 0,0:09:34.55,0:09:37.56,Staff,,0,0,0,,{\an8\bord2\fad(450,450)\pos(205,840)\fs32}字幕制作\N{\fs40}Aninext\NANX-02
+Comment: 0,0:18:04.98,0:18:07.98,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(1595,330)\fs32\i0\blur2\b1\fsp0}监制\N\N\N\N\N时轴\N\N\N设计\N\N\N特效\N\N\N\N\N校对\N\N\N压制
+Comment: 0,0:18:04.98,0:18:07.98,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(1675,330)\fs32\i0\blur2\b1\fsp0}Itsuki5696\NAki云太\N\N\N84aho\N\N\NAres\N\N\NAres\NItsuki5696\N\N\N珺珺\N\N\Nvcb-s
+Comment: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(1335,750)\fs32\i0\blur2\b1\fsp0}翻译
+Comment: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(1398,750)\fs32\i0\blur2\b1\fsp0}Aninext Mpls\N龙王            天星晓欲稀\NAki云太         u_zerotwo\N\NANX-02\NItsuki5696
+Comment: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(210,750)\fs32\i0\blur2\b1\fsp0}OP翻译\N\N\N\NED翻译
+Comment: 0,0:18:29.17,0:18:32.17,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(268,750)\fs32\i0\blur2\b1\fsp0}Itsuki5696\N\N\N\NAki云太\Nu_zerotwo
+Comment: 0,0:18:39.31,0:18:42.48,Staff,,0,0,0,,{\an3\bord1.5\fad(450,450)\pos(1575,870)\fs32\i0\blur2\b1\fsp0}OP字幕制作\N\N\N\N\N\N\N\N\N\N\N\NED字幕制作\N\N\N插入曲翻译\N\N\N插入曲字幕制作
+Comment: 0,0:18:39.31,0:18:42.48,Staff,,0,0,0,,{\an1\bord1.5\fad(450,450)\pos(1635,870)\fs32\i0\blur2\b1\fsp0}Aninext\N古月三时\N大小K\N\NANX-02\NItsuki5696\N\N\NAki云太\N\N\Nforever星河\N\N\NAki云太
+Comment: 0,0:18:51.07,0:18:54.07,Staff,,0,0,0,,{\an9\bord1.5\fad(450,450)\pos(295,520)\fs32\i0\blur2\b1\fsp0}字幕制作\N\N\N\N\N\N\N发行
+Comment: 0,0:18:51.07,0:18:54.07,Staff,,0,0,0,,{\an7\bord1.5\fad(450,450)\pos(355,520)\fs32\i0\blur2\b1\fsp0}Aninext Mpls\NANX-02\Nvcb-s\N\N\NANX Holdings PJSC\NAninext
+Comment: 0,0:19:18.10,0:19:22.02,Staff,,0,0,5,,{\fad(500,0)\an2\blur3\bord1\fsp0\b1\i0\fs30}本字幕及视频仅供学习交流使用，不得涉及任何商业盈利目的。\N我们不对任何法律后果负责，请自行在下载后24小时内删除。
 Dialogue: 0,0:09:09.11,0:09:14.36,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5}か弱い光が指差す先
 Dialogue: 0,0:09:15.24,0:09:20.49,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5}Silent Haze 霞みがちに捉える影
 Dialogue: 0,0:09:21.04,0:09:25.71,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5}散り散りに刻む
@@ -147,34 +147,34 @@ Dialogue: 0,0:10:05.00,0:10:09.54,JA-TR,,0,0,0,karaoke,{\bord0}{\fad(200,200)}Th
 Dialogue: 0,0:10:09.88,0:10:13.88,JA-TR,,0,0,0,karaoke,{\3a&HFF&\bord2\blur5\t(355,770,0.7,\3a&H00&)\fad(200,200)}Oh my bitter color ardor wander
 Dialogue: 0,0:10:14.05,0:10:16.97,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}Gotta feel it undercover
 Dialogue: 0,0:10:17.13,0:10:23.22,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}行方も知らない　あの日の群青
-Dialogue: 1,0:09:09.11,0:09:14.36,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}指着微光的方向看去
-Dialogue: 1,0:09:15.24,0:09:20.49,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}在寂静朦胧的迷雾中的身影
-Dialogue: 1,0:09:21.04,0:09:25.71,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}四周刻满了痕迹
-Dialogue: 1,0:09:26.00,0:09:26.80,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,0)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:26.80,0:09:27.55,CN-TR,,0,0,0,karaoke,{\1c&H0b00cc&\3c&HFFFFFF&\blur5}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:27.55,0:09:28.30,CN-TR,,0,0,0,karaoke,{\blur5\3c&H7b564a&}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:28.30,0:09:29.05,CN-TR,,0,0,0,karaoke,{\blur5}若是在真正的世界里能出笑出来吗
-Comment: 1,0:09:29.05,0:09:30.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:29.05,0:09:29.17,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:29.17,0:09:29.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1562 0 l 1634 62 1708 128 1920 128 1920 65 1843 0)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:29.30,0:09:29.42,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1477 0 l 1476 39 1495 133 1571 140 1564 0)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:29.42,0:09:29.55,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1349 0 l 1392 54 1423 73 1493 110 1512 144 1703 146 1678 72 1651 17 1627 0)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:29.55,0:09:30.22,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:30.22,0:09:30.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1406 0 l 1397 75 1387 113 1351 133 1663 141 1683 100 1707 70 1743 0)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:30.30,0:09:31.22,CN-TR,,0,0,0,karaoke,{\blur5\fad(0,200)}若是在真正的世界里能出笑出来吗
-Dialogue: 1,0:09:32.13,0:09:34.59,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}为什么你不去那？
-Dialogue: 1,0:09:34.88,0:09:37.93,CN-TR,,0,0,0,karaoke,{\blur5\an7}{\fad(200,200)}他问道  他呼唤
-Dialogue: 1,0:09:38.14,0:09:44.06,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}只因所仰望的天空已改变颜色
+Dialogue: 1,0:09:09.11,0:09:14.36,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}追寻着那道微光所指的方向
+Dialogue: 1,0:09:15.24,0:09:20.49,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}静谧薄雾中捕捉到的朦胧身影
+Dialogue: 1,0:09:21.04,0:09:25.71,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}四散 飘零 刻下生命的印记
+Dialogue: 1,0:09:26.00,0:09:26.80,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,0)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:26.80,0:09:27.55,CN-TR,,0,0,0,karaoke,{\1c&H0b00cc&\3c&HFFFFFF&\blur5}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:27.55,0:09:28.30,CN-TR,,0,0,0,karaoke,{\blur5\3c&H7b564a&}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:28.30,0:09:29.05,CN-TR,,0,0,0,karaoke,{\blur5}在现实世界里还能够展颜欢笑吗
+Comment: 1,0:09:29.05,0:09:30.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:29.05,0:09:29.17,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:29.17,0:09:29.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1562 0 l 1634 62 1708 128 1920 128 1920 65 1843 0)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:29.30,0:09:29.42,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1477 0 l 1476 39 1495 133 1571 140 1564 0)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:29.42,0:09:29.55,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1349 0 l 1392 54 1423 73 1493 110 1512 144 1703 146 1678 72 1651 17 1627 0)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:29.55,0:09:30.22,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:30.22,0:09:30.30,CN-TR,,0,0,0,karaoke,{\1c&H240cae&\3c&Hb88890&\blur5\iclip(m 1406 0 l 1397 75 1387 113 1351 133 1663 141 1683 100 1707 70 1743 0)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:30.30,0:09:31.22,CN-TR,,0,0,0,karaoke,{\blur5\fad(0,200)}在现实世界里还能够展颜欢笑吗
+Dialogue: 1,0:09:32.13,0:09:34.59,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}你是否还未抵达那里？
+Dialogue: 1,0:09:34.88,0:09:37.93,CN-TR,,0,0,0,karaoke,{\blur5\an7}{\fad(200,200)}它问道  它呼唤
+Dialogue: 1,0:09:38.14,0:09:44.06,CN-TR,,0,0,0,karaoke,{\blur5\fad(200,200)}仰望的天空终将不复昔日色彩
 Dialogue: 1,0:09:44.23,0:09:46.94,CN-TR,,0,0,0,karaoke,{\blur5\t(1300,1600,\1c&H666666&\3c&HFFFFFF&\blur5)\fad(200,200)}我的赤诚之心就能够听到
-Dialogue: 1,0:09:47.14,0:09:50.23,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\fad(200,200)}那一声声回响  萦绕不绝
-Dialogue: 1,0:09:50.36,0:09:57.03,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\fad(200,0)}正因无知而渴求的那份狂热
-Dialogue: 1,0:09:57.03,0:09:57.54,CN-TR,,0,0,0,karaoke,{\1c&Hcccccc&\3c&H333333&\blur5}正因无知而渴求的那份狂热
-Dialogue: 1,0:09:57.54,0:09:58.04,CN-TR,,0,0,0,karaoke,{\1c&Hffffff&\3c&H000000&\blur5\fad(0,0)}正因无知而渴求的那份狂热
-Dialogue: 1,0:09:59.03,0:10:03.99,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\t(2850,3650,\1c&HFFFFFF&\3c&H000000&)}{\fad(0,200)}我又开始呢喃着你的名字
-Dialogue: 1,0:10:05.00,0:10:09.54,CN-TR,,0,0,0,karaoke,{\bord0}{\fad(200,200)}一遍又一遍地
-Dialogue: 1,0:10:09.88,0:10:13.88,CN-TR,,0,0,0,karaoke,{\3a&HFF&\bord2\blur5\t(355,770,0.7,\3a&H00&)\fad(200,200)}我那痛苦的  多彩的  狂热的  迷离的感情
-Dialogue: 1,0:10:14.05,0:10:16.97,CN-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}必须把所有感情隐藏起来
-Dialogue: 1,0:10:17.13,0:10:23.22,CN-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}仍旧无人知晓那天不知所踪的群青色
+Dialogue: 1,0:09:47.14,0:09:50.23,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\fad(200,200)}余音  回荡
+Dialogue: 1,0:09:50.36,0:09:57.03,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\fad(200,0)}在不知不觉中寻求着热望
+Dialogue: 1,0:09:57.03,0:09:57.54,CN-TR,,0,0,0,karaoke,{\1c&Hcccccc&\3c&H333333&\blur5}在不知不觉中寻求着热望
+Dialogue: 1,0:09:57.54,0:09:58.04,CN-TR,,0,0,0,karaoke,{\1c&Hffffff&\3c&H000000&\blur5\fad(0,0)}在不知不觉中寻求着热望
+Dialogue: 1,0:09:59.03,0:10:03.99,CN-TR,,0,0,0,karaoke,{\1c&H666666&\3c&HFFFFFF&\blur5\t(2850,3650,\1c&HFFFFFF&\3c&H000000&)}{\fad(0,200)}再次呢喃着你的名字
+Dialogue: 1,0:10:05.00,0:10:09.54,CN-TR,,0,0,0,karaoke,{\bord0}{\fad(200,200)}而后即刻重新启程
+Dialogue: 1,0:10:09.88,0:10:13.88,CN-TR,,0,0,0,karaoke,{\3a&HFF&\bord2\blur5\t(355,770,0.7,\3a&H00&)\fad(200,200)}我那苦涩颜色  热情徜徉
+Dialogue: 1,0:10:14.05,0:10:16.97,CN-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}唯有在心底悄然感受
+Dialogue: 1,0:10:17.13,0:10:23.22,CN-TR,,0,0,0,karaoke,{\fad(200,200)\blur5\bord2}那日的群青  也已不知踪迹
 Comment: 0,0:00:00.00,0:00:00.00,CN,,0,0,0,,——ED3——
 Dialogue: 0,0:21:26.66,0:21:32.33,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5}吐き出すルールは君が決めた
 Dialogue: 0,0:21:32.80,0:21:38.64,JA-TR,,0,0,0,karaoke,{\fad(200,200)\blur5}吐き出すルールあなたが決めた
